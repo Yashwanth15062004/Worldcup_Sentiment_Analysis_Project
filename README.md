@@ -1,4 +1,4 @@
-# Victory Cheers to Defeat Tears
+# Victory Cheers to Defeat Tears: A Sentimental Saga of Indian Cricket Devotees Pre and Post-World Cup Loss
 The central objective of this project is to conduct hypothesis testing to 
 systematically examine or challenge, the assertion that there has been a 
 noticeable alteration in the sentiment and opinion of the Indian 
